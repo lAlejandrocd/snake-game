@@ -1,0 +1,19 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "\"snake project using html and JS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lAlejandrocd/snake-game.git"
+  },
+  "author": "Alejandro Ceron Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lAlejandrocd/snake-game/issues"
+  },
+  "homepage": "https://github.com/lAlejandrocd/snake-game#readme"
+}
