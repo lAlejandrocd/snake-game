@@ -1,0 +1,19 @@
+*{
+
+  background: aqua;
+  font-family: 'FiraMono-Regular', monospace;
+}
+
+.title h1{
+  font-size: 48px;
+  text-align: center;
+  position:relative;
+}
+
+#snakeBoard{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+@import url(assets/font/FiraMono-Regular.ttf);
